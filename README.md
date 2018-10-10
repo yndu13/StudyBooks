@@ -61,7 +61,7 @@ StudyBooks
 * [C++ 工程实践经验谈--陈硕]
 * [C++ API设计]
 * [C++代码设计与重用]
-* [C++标准库——自学教程与参考手册(第2版)英文版]
+* [C++标准库——自学教程与参考手册(第2版)英文版](https://pan.baidu.com/s/1bw6wa)
 * [C++沉思录(Ruminations on C++)中文第2版]
 * [C++程序设计]
 * [C++设计新思维(Modern_C++_Design)]
